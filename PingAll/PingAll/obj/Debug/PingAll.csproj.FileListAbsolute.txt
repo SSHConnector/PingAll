@@ -1,0 +1,7 @@
+C:\git\PingAll\PingAll\PingAll\bin\Debug\PingAll.exe.config
+C:\git\PingAll\PingAll\PingAll\bin\Debug\PingAll.exe
+C:\git\PingAll\PingAll\PingAll\bin\Debug\PingAll.pdb
+C:\git\PingAll\PingAll\PingAll\obj\Debug\PingAll.csprojResolveAssemblyReference.cache
+C:\git\PingAll\PingAll\PingAll\obj\Debug\PingAll.exe
+C:\git\PingAll\PingAll\PingAll\obj\Debug\PingAll.pdb
+C:\git\PingAll\PingAll\PingAll\bin\Debug\machines.txt

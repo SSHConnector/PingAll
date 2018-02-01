@@ -1,0 +1,5 @@
+﻿machineA
+machineB
+machineC
+machineD
+machineE
